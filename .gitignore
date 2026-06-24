@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Datasets
+*.csv
+*.xlsx
+*.xls
+
+# Models
+*.pkl
+
+# VS Code
+.vscode/
+
+# Virtual Environment
+venv/
+.env
